@@ -1,0 +1,12 @@
+row_w,col_w,status,uuid
+1,7,no_loop,e6b987fb-a223-48e3-b7b5-018c1c79d059
+1,8,no_loop,4f42b90f-7363-42b3-814b-4180a6152ca1
+4,8,no_loop,0dfe6663-3a56-43bb-96b0-ef63ed1cc7cf
+5,8,no_loop,96d12968-9146-4841-886d-f5d0b0402fcf
+6,3,loop,0a0fe161-e194-405b-ab3e-d787368f0eab
+6,6,no_loop,8f8cfefb-e434-490f-a605-9997d9130598
+7,6,loop,acb5b147-c5f7-41b7-91bd-1eb023c9e9eb
+8,1,loop,9db899a4-c921-4c9a-9b42-1d9ca4e8f913
+8,3,loop,8a6ea9ca-19d3-4382-86d6-4ad5cb75f6df
+7,7,loop,3251e0f0-62d5-46e8-a934-67245576eb22
+9,7,loop,3d06730a-5c50-48da-9a07-a164b93e7cf7
